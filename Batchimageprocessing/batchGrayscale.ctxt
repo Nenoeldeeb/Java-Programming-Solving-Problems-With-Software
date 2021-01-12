@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=batchGrayscale
+comment1.params=f
+comment1.target=edu.duke.ImageResource\ convertToGray(java.io.File)
+comment2.params=img
+comment2.target=void\ saveConverted(edu.duke.ImageResource)
+comment3.params=
+comment3.target=void\ grayscaleConverter()
+numComments=4
